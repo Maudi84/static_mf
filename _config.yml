@@ -6,7 +6,7 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            MFore
+title:            MF
 tagline:          'Portfolio for Maurice'
 description:      'Hello <a href="http://jekyllrb.com" target="_blank">Jekyll</a> Thank you for visiting my page.</a>.'
 url:              https://maudi84.github.io
