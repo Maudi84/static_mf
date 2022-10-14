@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Maurice Foreman
-tagline:          'A Jekyll theme'
-description:      'Hello <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            MFore
+tagline:          'Portfolio for Maurice'
+description:      'Hello <a href="http://jekyllrb.com" target="_blank">Jekyll</a> Thank you for visiting my page.</a>.'
 url:              https://maudi84.github.io
 baseurl:          /static_mf
 indexurl:         /index.html
