@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Introducing Hyde
+title: Introducing Me
 ---
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Hi my name is Maurice. I've just graduated from UC Santa Cruz!
 
 ### Built on Poole
 
