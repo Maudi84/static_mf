@@ -8,8 +8,6 @@ permalink: projects
 ## Facebook Marketplace Clone
 JavaScript | HTML5 | CSS
 
-***
-
 | A full stack web application designed to mimic Facebook's Marketplace.
 
 - [x] Front-end design using ReactJS and MUI React Components for the GUI.
@@ -21,8 +19,6 @@ JavaScript | HTML5 | CSS
 <br/>
 ## Multithreaded HTTP Server
  C |
-
-***
 
 | A robust multi-threaded web server that serves files and updates them at the request of a client.
 
