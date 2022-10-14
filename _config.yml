@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            MF
 tagline:          'Portfolio for Maurice'
-description:      'Hello <a href="http://jekyllrb.com" target="_blank">Jekyll</a> Thank you for visiting my page.</a>.'
+description:      'Howdy, you've reached the static page for Mr. Maurice Foreman.'
 url:              https://maudi84.github.io
 baseurl:          /static_mf
 indexurl:         /index.html
