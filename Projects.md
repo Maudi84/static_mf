@@ -6,9 +6,8 @@ permalink: projects
 
 
 ## Facebook Marketplace Clone
-***
 JavaScript | HTML5 | CSS 
-
+***
 |A Full stack web application designed to mimic Facebook's Marketplace.|
 
 ***
