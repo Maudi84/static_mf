@@ -9,18 +9,16 @@ permalink: projects
 | JavaScript | HTML5 | CSS |
 
 | A full stack web application designed to mimic Facebook's Marketplace.
-
-| * Front-end design using ReactJS and MUI React Components for the GUI. |
-| * Back-end design using NodeJS and ExpressJS, and authentication using PassportJS. | 
-| * Relational database design using PostgreSQL and Docker |
-| * Design and testing APIs using Swagger, as well as Jest and Puppeteer for end to end testing. |
-| * Secure API access with the use of an OpenAPI schema. |
+|  Front-end design using ReactJS and MUI React Components for the GUI. |
+|  Back-end design using NodeJS and ExpressJS, and authentication using PassportJS. | 
+|  Relational database design using PostgreSQL and Docker |
+|  Design and testing APIs using Swagger, as well as Jest and Puppeteer for end to end testing. |
+|  Secure API access with the use of an OpenAPI schema. |
 
 <br/>
 ## Multithreaded HTTP Server
 
 | C |
-
 | A robust multi-threaded web server that serves files and updates them at the request of a client.
 
 - [x] Robust multi-threaded server is able to service a wide range of requests from multiple clients simultaneously.
