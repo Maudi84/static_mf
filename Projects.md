@@ -7,7 +7,7 @@ permalink: projects
 
 ## Facebook Marketplace Clone
 
-| JavaScript  HTML5  CSS |
+|  JavaScript    HTML5    CSS  |
 | A full stack web application designed to mimic Facebook's Marketplace.
 
 *  Front-end design using ReactJS and MUI React Components for the GUI. 
