@@ -6,7 +6,7 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            MF
+title:            StaticMF
 tagline:          'Portfolio for Maurice'
 description:      'Howdy, my name is Maurice. I am an aspiring web developer who is using this static page to show my work.'
 url:              https://maudi84.github.io
