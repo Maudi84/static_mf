@@ -5,10 +5,10 @@ permalink: projects
 
 
 ## Facebook Marketplace Clone
-| Syntax      | Description |
+| Language     | Description |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Javascript    | Full stack program using NERP    |
+| HTML5 / CSS  | Text        |
 
 ## HTTP Server
 
