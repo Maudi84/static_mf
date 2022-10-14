@@ -1,16 +1,16 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      pygments
+markdown: kramdown
+highlighter: pygments
 
 # Permalinks
-permalink:        pretty
+permalink: pretty
 
 # Setup
-title:            MF
-tagline:          'Portfolio for Maurice'
-description:      'Howdy, you've reached the static page for Mr. Maurice Foreman.'
-url:              https://maudi84.github.io
-baseurl:          /static_mf
+title: MF
+tagline: 'Portfolio for Maurice'
+description: 'Howdy, you've reached the static page for Mr. Maurice Foreman.'
+url: https://maudi84.github.io
+baseurl: /static_mf
 
 author:
   name:           'Mark Otto'
