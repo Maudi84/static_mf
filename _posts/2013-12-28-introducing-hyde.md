@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Introduction:
+title: Introducing Hyde
 ---
 
-My name is Maurice Foreman. I'm a software professional and a hardware enthusiast. 
+Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
 ### Built on Poole
 
