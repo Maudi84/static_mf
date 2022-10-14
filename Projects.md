@@ -10,7 +10,6 @@ permalink: projects
 
 
 | Language     | Description |
-
 | Javascript / HTML5 / CSS   | Full stack web application designed to mimic Facebook's Marketplace.
 
 ## HTTP Server
