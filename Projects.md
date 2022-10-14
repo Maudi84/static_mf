@@ -10,7 +10,10 @@ permalink: projects
 
 
 | Language     | Description |
-| Javascript / HTML5 / CSS   | Full stack web application designed to mimic Facebook's Marketplace. The front-end was designed using ReactJS and MUI React Components for the GUI.
+| Javascript / HTML5 / CSS   | Full stack web application designed to mimic Facebook's Marketplace. The front-end was designed using ReactJS and MUI React Components for the GUI. 
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
 
 ## HTTP Server
 
