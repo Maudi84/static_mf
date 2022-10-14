@@ -5,7 +5,6 @@ permalink: projects
 ---
 
 	| Syntax | Description |
-| ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
 
