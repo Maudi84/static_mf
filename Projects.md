@@ -17,10 +17,7 @@ JavaScript | HTML5 | CSS
 - [x] Relational database design using PostgreSQL and Docker
 - [X] Design and testing APIs using Swagger, as well as Jest and Puppeteer for end to end testing.
 - [X] Secure API access with the use of an OpenAPI schema. 
-
-
-
-
+<br/><br/><br/><br/>
 ## Multithreaded HTTP Server
  C |
 
