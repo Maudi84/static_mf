@@ -14,8 +14,7 @@ permalink: projects
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
-| Paragraph | Text |
-{: .tablelines}
+| Paragraph | Text | {: .tablelines}
 
 | Language     | Description |
 | ----------- | ----------- |
