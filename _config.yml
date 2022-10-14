@@ -35,9 +35,11 @@ plugins:
   - jekyll-feed
 
 header_pages:
-	- index.md
-	- about.md
+  - index.md
+  - about.md
 style: hacker
+
+footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
 # Exclude from processing.
 # The following items will not be processed, by default.
