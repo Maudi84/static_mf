@@ -6,14 +6,15 @@ permalink: projects
 
 
 ## Facebook Marketplace Clone
-| JavaScript | HTML5 | CSS |
 
+| JavaScript | HTML5 | CSS |
 | A full stack web application designed to mimic Facebook's Marketplace.
-|  Front-end design using ReactJS and MUI React Components for the GUI. |
-|  Back-end design using NodeJS and ExpressJS, and authentication using PassportJS. | 
-|  Relational database design using PostgreSQL and Docker |
-|  Design and testing APIs using Swagger, as well as Jest and Puppeteer for end to end testing. |
-|  Secure API access with the use of an OpenAPI schema. |
+
+* Front-end design using ReactJS and MUI React Components for the GUI. 
+*  Back-end design using NodeJS and ExpressJS, and authentication using PassportJS. 
+*  Relational database design using PostgreSQL and Docker 
+*  Design and testing APIs using Swagger, as well as Jest and Puppeteer for end to end testing. 
+*  Secure API access with the use of an OpenAPI schema. 
 
 <br/>
 ## Multithreaded HTTP Server
