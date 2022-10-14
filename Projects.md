@@ -18,7 +18,8 @@ permalink: projects
 
 <br/>
 ## Multithreaded HTTP Server
- C |
+
+| C |
 
 | A robust multi-threaded web server that serves files and updates them at the request of a client.
 
