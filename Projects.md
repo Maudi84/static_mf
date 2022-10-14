@@ -7,8 +7,8 @@ permalink: projects
 ## Facebook Marketplace Clone
 | Language     | Description |
 | ----------- | ----------- |
-| Javascript    | Full stack program using NERP    |
-| HTML5 / CSS  |
+| Javascript    | Full stack program using NERP  I am testing to see how far I can push this thing|
+| HTML5 / CSS  
 
 ## HTTP Server
 
