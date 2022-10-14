@@ -7,10 +7,10 @@ permalink: projects
 
 ## Facebook Marketplace Clone
 | Syntax | Description |
-
 | ----------- | ----------- |
+
 | Header | Title |
-| Paragraph | Text | {: .tablelines}
+| Paragraph | Text |
 
 | Language     | Description |
 
