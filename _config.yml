@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            MF
 tagline:          'Portfolio for Maurice'
-description:      'Howdy, my name is Maurice and I'm an aspiring web developer.'
+description:      'Howdy, my name is Maurice. I am an aspiring web developer who is using this static page to show my work.'
 url:              https://maudi84.github.io
 baseurl:          /static_mf
 indexurl:         /index.html
