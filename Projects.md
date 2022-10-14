@@ -2,13 +2,13 @@
 layout: page
 title: Projects
 permalink: projects
----
 
-	| Syntax | Description |
-| Header | Title |
-| Paragraph | Text |
 
 ## Facebook Marketplace Clone
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 ## HTTP Server
 
