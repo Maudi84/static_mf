@@ -7,8 +7,8 @@ permalink: projects
 ## Facebook Marketplace Clone
 | Language     | Description |
 | ----------- | ----------- |
-| Javascript / HTML5 / CSS   | Full stack program using NERP  I am testing to see how far I can push this thing|
-
+| Javascript / HTML5 / CSS   | Full stack web application designed to mimic Facebook's Marketplace.
+The front end is designed using ReactJS and MUI components for the GUI. The Backend is designed
 
 ## HTTP Server
 
