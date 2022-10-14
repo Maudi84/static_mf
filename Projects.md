@@ -8,7 +8,7 @@ permalink: projects
 | Language     | Description |
 | ----------- | ----------- |
 | Javascript    | Full stack program using NERP    |
-| HTML5 / CSS  | Text        |
+| HTML5 / CSS  |
 
 ## HTTP Server
 
