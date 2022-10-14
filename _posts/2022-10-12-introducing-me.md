@@ -3,7 +3,9 @@ layout: post
 title: Introducing Me
 ---
 
-Hi my name is Maurice. I've just graduated from UC Santa Cruz!
+Hi my name is Maurice. I am a software professional and a hardware enthusiast. I made this website because I have recently graduated from UC Santa Cruz with a B.S in Computer Science and needed a way to showcase my projects, experience, and skills.
+
+If you are a prospective employer, please take a moment to review my resume and reach out to me.
 
 ### Built on Poole
 
